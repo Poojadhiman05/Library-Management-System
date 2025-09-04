@@ -38,3 +38,41 @@ This project allows users to view details of 5 pre-defined books by entering a c
 
 Output ![LMS](https://github.com/user-attachments/assets/a384c721-4dcf-48b0-bcf2-5d639ad53f2b)
 
+
+---
+
+## ✅ Features
+
+- Simple and intuitive user interface 🔹  
+- Fast lookup of book details 🔍  
+- Clean and modular Python code 🧹  
+- Easy to extend with more books or features 🧱
+
+---
+
+## 📦 Future Improvements
+
+- Add a GUI using `Tkinter` or `PyQt` 🖼️  
+- Store book data using a JSON or SQLite database 🗄️  
+- Allow user to add/update/delete book records ✏️
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📄 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Author
+
+- 🔗 [POOJA DHIMAN](https://www.linkedin.com/in/pooja-dhiman-01a126126/) – Python Developer & Data Analytics Intern
+
+---
+
